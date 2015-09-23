@@ -239,9 +239,20 @@
 >   * [VPNOn](https://github.com/lexrus/VPNOn)
 
 ----
+
 > **<img src="http://nianxi.net/images/avatar.png" width="50" height="50" style="border-radius: 50%;">「念茜」**
 > 
 > 程序媛，做过嵌入式 Linux、Android 移植以及 iOS 开发，喜欢研究逆向和安全加固，现就职于支付宝。
 > 
 > * Blog: [念茜的博客](http://nianxi.net/)
 > * 新浪微博: [@程序媛念茜](http://weibo.com/p/1005051879804595)
+
+----
+
+> **<img src="https://avatars2.githubusercontent.com/u/5517281?v=3&s=460" width="50" height="50" style="border-radius: 50%;">  杨骑滔**
+> 
+> * GitHub: [https://github.com/KittenYang](https://github.com/KittenYang)
+> * Blog: [Kitten's 时间胶囊](http://kittenyang.com/#blog)
+> * 新浪微博: [@KITTEN-YANG](http://weibo.com/710312327)
+> * 主要作品:
+>   * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)
