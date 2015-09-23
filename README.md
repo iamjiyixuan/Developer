@@ -271,3 +271,16 @@
 >   * [奇点微博客户端](https://itunes.apple.com/app/id947792507)
 > * 了解更多:
 >   * [独立开发者图拉鼎谈 Swift 的诞生与未来](https://www.oschina.net/question/2306979_237398) by 开源中国社区
+
+----
+
+> **<img src="https://avatars0.githubusercontent.com/u/878260?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「里脊串」**
+> 
+> * GitHub: [https://github.com/adad184](https://github.com/adad184)
+> * Blog: [里脊串的开发随笔](http://adad184.com/)
+> * 新浪微博: [@里脊串](http://weibo.com/ljc1986)
+> * 主要作品:
+>   * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)
+>   * [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
+>   * [MMParallaxCell](https://github.com/adad184/MMParallaxCell)
+>   * [MMPopupView](https://github.com/adad184/MMPopupView)
