@@ -83,7 +83,7 @@
 
 > <img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;"> **「tinyfool」郝培强**  
 > 
-> 上海泰尼网络科技有限公司创始人，OurCoders.com 站长。
+> 上海泰尼网络科技有限公司创始人，[OurCoders.com](http://ourcoders.com/home/) 站长。
 > 
 > * Blog: [Tinyfool' blog](http://tinyfool.org/)
 > * 新浪微博: [@tinyfool](http://weibo.com/tinyfool)
@@ -176,13 +176,15 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「我就叫Sunny怎么了」孙源** 
 > 
-> 现就职于百度。
+> 现就职于百度，负责百度知道 iOS 客户端的开发，组织开源小组 [forkingdog](https://github.com/forkingdog)。
 > 
-> * GitHub: [https://github.com/sunnyxx](https://github.com/sunnyxx)
+> * GitHub: [https://github.com/sunnyxx](https://github.com/sunnyxx) / [https://github.com/forkingdog](https://github.com/forkingdog)
 > * Blog: [sunnyxx的技术博客](http://blog.sunnyxx.com/)
 > * 新浪微博: [@我就叫Sunny怎么了](http://weibo.com/u/1364395395)
 > * 主要作品:
 >   * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
+>   * [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
+>   * [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
 
 ----
 
@@ -194,7 +196,7 @@
 
 ----
 
-> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城」** 
+> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城」臧其龙** 
 > 
 > * GitHub: [https://github.com/zangqilong198812](https://github.com/zangqilong198812)
 > * Blog: [叶孤城___](http://www.jianshu.com/users/b82d2721ba07/latest_articles)
