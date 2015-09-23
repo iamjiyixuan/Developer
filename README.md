@@ -1,4 +1,4 @@
-## Community
+## Communities
 
 > <img src="https://avatars3.githubusercontent.com/u/9919?v=3&s=200" width="50" height="50" style="border-radius: 50%;"> **GitHub** 
 > 
@@ -146,7 +146,7 @@
 > * 主要作品:
 >   * [《PRODUCTER》](http://producter.io/)
 >   * [PNChart](https://github.com/kevinzhow/PNChart)
-> * 了解等多:
+> * 了解更多:
 >   * [秒视90后CEO周楷雯怎么看他们这一代？我不要做NPC！](http://www.huxiu.com/article/45742/1.html) by 虎嗅网
 
 ----
@@ -284,3 +284,13 @@
 >   * [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
 >   * [MMParallaxCell](https://github.com/adad184/MMParallaxCell)
 >   * [MMPopupView](https://github.com/adad184/MMPopupView)
+
+----
+
+> **<img src="https://avatars1.githubusercontent.com/u/435208?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「nixzhu」**
+> 
+> 留着长发的 NIX，用过几年 Linux，目前做 iOS 开发。
+> 
+> * GitHub: [https://github.com/nixzhu](https://github.com/nixzhu)
+> * Blog: [nixzhu.me](http://nixzhu.me/)
+> * 新浪微博: [@nixzhu](http://weibo.com/nixzhu)
