@@ -140,13 +140,13 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/1019875?v=3&s=400" width="50" height="50" style="border-radius: 50%;">「onevcat · 王巍」** 
 > 
-> 「objc中国」项目发起人，现居日本，就职于 LINE。
+> 翻译项目「objc中国」的发起者，现居日本，就职于 LINE。
 > 
 > * GitHub: [https://github.com/onevcat](https://github.com/onevcat)
 > * Blog: [OneV's Den](http://onevcat.com/#blog)
 > * 新浪微博: [@onevcat](http://weibo.com/onevcat)
 > * 主要作品:
->   * [objc中国][objc中国]（as 项目发起人）
+>   * [objc中国](http://www.objcio.cn/)（as 项目发起者）
 >   * [swifter.tips](http://swifter.tips/)
 >   * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
 > * 了解更多
