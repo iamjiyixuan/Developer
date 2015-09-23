@@ -256,3 +256,18 @@
 > * 新浪微博: [@KITTEN-YANG](http://weibo.com/710312327)
 > * 主要作品:
 >   * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)
+
+----
+
+> **<img src="https://avatars1.githubusercontent.com/u/35811?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「图拉鼎」**
+> 
+> 独立开发者。
+> 
+> * GitHub: [https://github.com/tualatrix](https://github.com/tualatrix)
+> * Blog: [IMTX](http://imtx.me/)
+> * 新浪微博: [@图拉鼎](http://weibo.com/tualatrix)
+> * 主要作品:
+>   * [Manico](http://manico.im/)
+>   * [奇点微博客户端](https://itunes.apple.com/app/id947792507)
+> * 了解更多:
+>   * [独立开发者图拉鼎谈 Swift 的诞生与未来](https://www.oschina.net/question/2306979_237398) by 开源中国社区
