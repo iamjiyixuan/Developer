@@ -65,7 +65,7 @@
 
 ## iOS / OS X Developers
 
-> <img src="http://nshipster.s3.amazonaws.com/mattt-thompson.jpg" width="50" height="50" style="border-radius: 50%;"> **「Mattt Thompson」** 
+>  **<img src="http://nshipster.s3.amazonaws.com/mattt-thompson.jpg" width="50" height="50" style="border-radius: 50%;">「Mattt Thompson」** 
 > 
 > * GitHub: [https://github.com/mattt](https://github.com/mattt)
 > * Blog: [http://nshipster.com/](http://nshipster.com/)
@@ -74,14 +74,14 @@
 
 ----
 
-> <img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **「Ole Begemann」**
+>  **<img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「Ole Begemann」**
 > 
 > * GitHub: [https://github.com/ole](https://github.com/ole)
 > * Blog: [http://oleb.net/](http://oleb.net/)
 
 ----
 
-> <img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;"> **「tinyfool · 郝培强」**  
+>  **<img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;">「tinyfool · 郝培强」**  
 > 
 > 上海泰尼网络科技有限公司创始人，[OurCoders.com](http://ourcoders.com/home/) 站长。
 > 
@@ -93,7 +93,7 @@
 
 ----
 
-> <img src="https://pic1.zhimg.com/12abec9c0_xl.jpg" width="50" height="50" style="border-radius: 50%;">  **「池建强」** 
+>   **<img src="https://pic1.zhimg.com/12abec9c0_xl.jpg" width="50" height="50" style="border-radius: 50%;">「池建强」** 
 > 
 > 《MacTalk 人生元编程》作者，现任锤子科技平台研发总监。
 > 
@@ -105,7 +105,7 @@
 
 ----
 
-> <img src="http://tp4.sinaimg.cn/1708947107/180/5715338488/1" width="50" height="50" style="border-radius: 50%;"> **「唐巧」** 
+>  **<img src="http://tp4.sinaimg.cn/1708947107/180/5715338488/1" width="50" height="50" style="border-radius: 50%;">「唐巧」** 
 > 
 > InfoQ 编辑，《iOS开发进阶》作者，目前在猿题库创业，iOS 高级研发工程师。
 > 
@@ -117,6 +117,24 @@
 >   * [《iOS开发进阶》](http://book.douban.com/subject/26287173/)
 > * 了解更多：
 >   * [唐巧访谈： iOS大V的技术进阶之路](http://www.cocoachina.com/programmer/20150115/10930.html) by CocoaChina
+
+----
+
+> **<img src="http://tp2.sinaimg.cn/1951274317/180/5701775547/1" width="50" height="50" style="border-radius: 50%;">「晨钰Lancy · 蓝晨钰」**
+> 
+> 猿题库 iOS 研发工程师。
+> 
+> * GitHub: [https://github.com/lancy](https://github.com/lancy)
+> * Blog: [Lancy's Blog](http://gracelancy.com/)
+> * 新浪微博:  [@晨钰Lancy](http://weibo.com/p/1005051951274317)
+
+----
+
+> **<img src="https://avatars0.githubusercontent.com/u/7963086?v=3&s=200" width="50" height="50" style="border-radius: 50%;">「猿题库技术团队」**
+> 
+> * GitHub: [https://github.com/yuantiku](https://github.com/yuantiku)
+> * 主要作品:
+>   * [YTKNetwork](https://github.com/yuantiku/YTKNetwork)
 
 ----
 
@@ -136,7 +154,7 @@
 
 ----
 
-> <img src="https://avatars3.githubusercontent.com/u/1156192?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **「周楷雯」** 
+> **<img src="https://avatars3.githubusercontent.com/u/1156192?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「周楷雯」** 
 > 
 > Catch Inc. CEO，《PRODUCTER》 作者 。
 > 
