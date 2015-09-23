@@ -65,7 +65,7 @@
 
 ## iOS / OS X Developers
 
-> <img src="http://nshipster.s3.amazonaws.com/mattt-thompson.jpg" width="50" height="50" style="border-radius: 50%;"> **Mattt Thompson** 
+> <img src="http://nshipster.s3.amazonaws.com/mattt-thompson.jpg" width="50" height="50" style="border-radius: 50%;"> **「Mattt Thompson」** 
 > 
 > * GitHub: [https://github.com/mattt](https://github.com/mattt)
 > * Blog: [http://nshipster.com/](http://nshipster.com/)
@@ -74,14 +74,14 @@
 
 ----
 
-> <img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **Ole Begemann**
+> <img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **「Ole Begemann」**
 > 
 > * GitHub: [https://github.com/ole](https://github.com/ole)
 > * Blog: [http://oleb.net/](http://oleb.net/)
 
 ----
 
-> <img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;"> **「tinyfool」郝培强**  
+> <img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;"> **「tinyfool · 郝培强」**  
 > 
 > 上海泰尼网络科技有限公司创始人，[OurCoders.com](http://ourcoders.com/home/) 站长。
 > 
@@ -93,7 +93,7 @@
 
 ----
 
-> <img src="https://pic1.zhimg.com/12abec9c0_xl.jpg" width="50" height="50" style="border-radius: 50%;">  **池建强** 
+> <img src="https://pic1.zhimg.com/12abec9c0_xl.jpg" width="50" height="50" style="border-radius: 50%;">  **「池建强」** 
 > 
 > 《MacTalk 人生元编程》作者，现任锤子科技平台研发总监。
 > 
@@ -105,7 +105,7 @@
 
 ----
 
-> <img src="http://tp4.sinaimg.cn/1708947107/180/5715338488/1" width="50" height="50" style="border-radius: 50%;"> **唐巧** 
+> <img src="http://tp4.sinaimg.cn/1708947107/180/5715338488/1" width="50" height="50" style="border-radius: 50%;"> **「唐巧」** 
 > 
 > InfoQ 编辑，《iOS开发进阶》作者，目前在猿题库创业，iOS 高级研发工程师。
 > 
@@ -120,7 +120,7 @@
 
 ----
 
-> **<img src="https://avatars0.githubusercontent.com/u/1019875?v=3&s=400" width="50" height="50" style="border-radius: 50%;">「onevcat」王巍** 
+> **<img src="https://avatars0.githubusercontent.com/u/1019875?v=3&s=400" width="50" height="50" style="border-radius: 50%;">「onevcat · 王巍」** 
 > 
 > 「objc中国」项目发起人，现居日本，就职于 LINE。
 > 
@@ -136,7 +136,7 @@
 
 ----
 
-> <img src="https://avatars3.githubusercontent.com/u/1156192?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **周楷雯** 
+> <img src="https://avatars3.githubusercontent.com/u/1156192?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> **「周楷雯」** 
 > 
 > Catch Inc. CEO，《PRODUCTER》 作者 。
 > 
@@ -151,7 +151,7 @@
 
 ----
 
-> **<img src="http://tp1.sinaimg.cn/2148327324/180/22866861228/1" width="50" height="50" style="border-radius: 50%;"> 「M了个J」李明杰** 
+> **<img src="http://tp1.sinaimg.cn/2148327324/180/22866861228/1" width="50" height="50" style="border-radius: 50%;"> 「M了个J · 李明杰」** 
 > 
 > 小码哥 CEO。
 > 
@@ -174,7 +174,7 @@
 
 ----
 
-> **<img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「我就叫Sunny怎么了」孙源** 
+> **<img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「我就叫Sunny怎么了 · 孙源」** 
 > 
 > 现就职于百度，负责百度知道 iOS 客户端的开发，组织开源小组 [forkingdog](https://github.com/forkingdog)。
 > 
@@ -188,7 +188,7 @@
 
 ----
 
-> **<img src="https://avatars1.githubusercontent.com/u/6276527?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「请叫我汪二」汪海洋** 
+> **<img src="https://avatars1.githubusercontent.com/u/6276527?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「请叫我汪二 · 汪海洋」** 
 > 
 > * GitHub: [https://github.com/callmewhy](https://github.com/callmewhy)
 > * Blog: [Why's Blog](http://blog.callmewhy.com/)
@@ -196,7 +196,7 @@
 
 ----
 
-> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城」臧其龙** 
+> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城 · 臧其龙」** 
 > 
 > * GitHub: [https://github.com/zangqilong198812](https://github.com/zangqilong198812)
 > * Blog: [叶孤城___](http://www.jianshu.com/users/b82d2721ba07/latest_articles)
@@ -204,7 +204,7 @@
 
 ----
 
-> **<img src="https://avatars2.githubusercontent.com/u/5253662?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> 雷纯锋** 
+> **<img src="https://avatars2.githubusercontent.com/u/5253662?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> 「雷纯锋」** 
 > 
 > * GitHub: [https://github.com/leichunfeng](https://github.com/leichunfeng)
 > * Blog: [雷纯锋的技术博客](http://blog.leichunfeng.com/)
@@ -215,7 +215,7 @@
 
 ----
 
-> **<img src="https://avatars1.githubusercontent.com/u/3365146?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「破船」周智勋**
+> **<img src="https://avatars1.githubusercontent.com/u/3365146?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「破船 · 周智勋」**
 > 
 > * GitHub: [https://github.com/BeyondVincent](https://github.com/BeyondVincent)
 > * Blog: [破船之家](https://github.com/BeyondVincent)
@@ -223,14 +223,14 @@
 
 ----
 
-> **<img src="https://avatars2.githubusercontent.com/u/35974?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「Limboy」李忠**
+> **<img src="https://avatars2.githubusercontent.com/u/35974?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「Limboy · 李忠」**
 > 
 > * GitHub: [https://github.com/lzyy](https://github.com/lzyy)
 > * Blog: [Limboy's HQ](http://limboy.me/)
 
 ----
 
-> **<img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> 汤圣罡**
+> **<img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「汤圣罡」**
 > 
 > * GitHub: [https://github.com/lexrus](https://github.com/lexrus)
 > * Blog: [Lex Tang](http://lexrus.com/)
@@ -249,7 +249,7 @@
 
 ----
 
-> **<img src="https://avatars2.githubusercontent.com/u/5517281?v=3&s=460" width="50" height="50" style="border-radius: 50%;">  杨骑滔**
+> **<img src="https://avatars2.githubusercontent.com/u/5517281?v=3&s=460" width="50" height="50" style="border-radius: 50%;"> 「杨骑滔」**
 > 
 > * GitHub: [https://github.com/KittenYang](https://github.com/KittenYang)
 > * Blog: [Kitten's 时间胶囊](http://kittenyang.com/#blog)
