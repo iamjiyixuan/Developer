@@ -214,7 +214,7 @@
 
 ----
 
-> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城 · 臧其龙」** 
+> **<img src="http://tp1.sinaimg.cn/1438670852/180/5737094477/1" width="50" height="50" style="border-radius: 50%;">「叶孤城___ · 臧其龙」** 
 > 
 > * GitHub: [https://github.com/zangqilong198812](https://github.com/zangqilong198812)
 > * Blog: [叶孤城___](http://www.jianshu.com/users/b82d2721ba07/latest_articles)
@@ -312,3 +312,13 @@
 > * GitHub: [https://github.com/nixzhu](https://github.com/nixzhu)
 > * Blog: [nixzhu.me](http://nixzhu.me/)
 > * 新浪微博: [@nixzhu](http://weibo.com/nixzhu)
+
+----
+
+> **<img src="https://avatars0.githubusercontent.com/u/800128?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「王轲」**
+> 
+> 唱吧 iOS 架构师，IndieBros Studio 创始人，iOS 独立开发者。
+> 
+> * GitHub: [https://github.com/ewangke](https://github.com/ewangke)
+> * Blog: [iWangKe.me](http://www.iwangke.me/)
+> * 新浪微博: [@王轲_IndieBros](http://www.weibo.com/indiebros)
