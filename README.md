@@ -322,3 +322,15 @@
 > * GitHub: [https://github.com/ewangke](https://github.com/ewangke)
 > * Blog: [iWangKe.me](http://www.iwangke.me/)
 > * 新浪微博: [@王轲_IndieBros](http://www.weibo.com/indiebros)
+
+----
+
+> **<img src="https://avatars0.githubusercontent.com/u/10682908?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「coderyi」**
+> 
+> GitHub iOS 客户端 「Monkey」作者。
+> 
+> * GitHub: [https://github.com/coderyi](https://github.com/coderyi)
+> * Blog: [https://github.com/coderyi/blog](https://github.com/coderyi/blog)
+> * 新浪微博: [@coderyi9](http://www.weibo.com/p/1005052136847320)
+> * 主要作品:
+>   * [Monkey](https://github.com/coderyi/Monkey)
