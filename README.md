@@ -354,3 +354,20 @@
 > * GitHub: [https://github.com/yulingtianxia](https://github.com/yulingtianxia)
 > * Blog: [玉令天下的博客](http://yulingtianxia.com/)
 > * 新浪微博: [@杨萧玉HIT](http://weibo.com/yulingtianxia)
+
+----
+
+> **<img src="https://avatars1.githubusercontent.com/u/1005781?v=3&s=460" height="50" style="border-radius: 50%;">「Casa Taloyum · 田伟宇」**
+> 
+> iOS 架构师，现就职于阿里巴巴。
+> 
+> * GitHub: [https://github.com/casatwy](https://github.com/casatwy)
+> * Blog: [Casa Taloyum](http://casatwy.com/)
+> * 新浪微博: [@反革命攻城狮CasaTaloyum](http://weibo.com/p/1005051910265043)
+> * TA 的文章:
+>   * [跳出面向对象思想(一) 继承 ](http://casatwy.com/tiao-chu-mian-xiang-dui-xiang-si-xiang-yi-ji-cheng.html)
+>   * [跳出面向对象思想(二) 多态](http://casatwy.com/tiao-chu-mian-xiang-dui-xiang-si-xiang-er-duo-tai.html)
+>   * [跳出面向对象思想(三) 封装](http://casatwy.com/tiao-chu-mian-xiang-dui-xiang-si-xiang-san-feng-zhuang.html)
+>   * [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+>   * [iOS应用架构谈 view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
+>   * [iOS应用架构谈 网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
