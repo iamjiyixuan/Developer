@@ -47,7 +47,7 @@
 
 > <img src="http://tp2.sinaimg.cn/1735559201/180/40080262730/1" width="50" height="50" style="border-radius: 50%;"> **「极客公园」GeekPark** 
 > 
-> 极客公园是国内最大的创新者社区，总部位于北京，成立于 2010 年。这个社区的特点是聚焦互联网产品和科技趋势，通过优秀的产品观察报道，以及高质量的线下活动，汇聚了中国互联网最优秀的创业精英和产品人群，成为了目前国内极客们的相互学习和交流碰撞的平台。
+> 国内最大的创新者社区。
 > 
 > * 官网: [http://www.geekpark.net/](http://www.geekpark.net/)
 > * 新浪微博: [@GeekPark](http://weibo.com/geekpark) 
@@ -69,7 +69,7 @@
 > 
 > * GitHub: [https://github.com/mattt](https://github.com/mattt)
 > * Blog: [http://nshipster.com/](http://nshipster.com/)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
 ----
@@ -100,7 +100,7 @@
 > * Blog: [MacTalk-池建强的随想录](http://macshuo.com/)
 > * 新浪微博: [@池建强](http://weibo.com/idreamland)
 > * 微信公众号:「MacTalk」sagacity-mac
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [《MacTalk 人生元编程》](http://book.douban.com/subject/25826578/)
 
 ----
@@ -113,7 +113,7 @@
 > * Blog: [唐巧的技术博客](http://blog.devtang.com/)
 > * 新浪微博:  [@唐巧_boy](http://weibo.com/tangqiaoboy)
 > * 微信公众号:「iOS开发」iosDevTips
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [《iOS开发进阶》](http://book.douban.com/subject/26287173/)
 > * 了解更多：
 >   * [唐巧访谈： iOS大V的技术进阶之路](http://www.cocoachina.com/programmer/20150115/10930.html) by CocoaChina
@@ -133,7 +133,7 @@
 > **<img src="https://avatars0.githubusercontent.com/u/7963086?v=3&s=200" width="50" height="50" style="border-radius: 50%;">「猿题库技术团队」**
 > 
 > * GitHub: [https://github.com/yuantiku](https://github.com/yuantiku)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [YTKNetwork](https://github.com/yuantiku/YTKNetwork)
 
 ----
@@ -145,7 +145,7 @@
 > * GitHub: [https://github.com/onevcat](https://github.com/onevcat)
 > * Blog: [OneV's Den](http://onevcat.com/#blog)
 > * 新浪微博: [@onevcat](http://weibo.com/onevcat)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [objc中国](http://www.objcio.cn/)（as 项目发起者）
 >   * [swifter.tips](http://swifter.tips/)
 >   * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)
@@ -161,7 +161,7 @@
 > * GitHub: [https://github.com/kevinzhow](https://github.com/kevinzhow)
 > * Blog: [Kevin Blog](http://blog.zhowkev.in/) 
 > * 新浪微博: [@周楷雯Kevin](http://weibo.com/kevinzhow)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [《PRODUCTER》](http://producter.io/)
 >   * [PNChart](https://github.com/kevinzhow/PNChart)
 > * 了解更多:
@@ -175,7 +175,7 @@
 > 
 > * GitHub: [https://github.com/CoderMJLee](https://github.com/CoderMJLee)
 > * 新浪微博: [@M了个J](http://weibo.com/exceptions)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [MJRefresh](https://github.com/CoderMJLee/MJRefresh)
 >   * [MJExtension](https://github.com/CoderMJLee/MJExtension)
 
@@ -199,7 +199,7 @@
 > * GitHub: [https://github.com/sunnyxx](https://github.com/sunnyxx) / [https://github.com/forkingdog](https://github.com/forkingdog)
 > * Blog: [sunnyxx的技术博客](http://blog.sunnyxx.com/)
 > * 新浪微博: [@我就叫Sunny怎么了](http://weibo.com/u/1364395395)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 >   * [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)
 >   * [UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)
@@ -227,7 +227,7 @@
 > * GitHub: [https://github.com/leichunfeng](https://github.com/leichunfeng)
 > * Blog: [雷纯锋的技术博客](http://blog.leichunfeng.com/)
 > * 新浪微博: [@雷纯锋2011](http://weibo.com/leichunfeng)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [GitBucket](https://itunes.apple.com/cn/app/id961330940?mt=8) 
 >   * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)
 
@@ -253,7 +253,7 @@
 > * GitHub: [https://github.com/lexrus](https://github.com/lexrus)
 > * Blog: [Lex Tang](http://lexrus.com/)
 > * 新浪微博: [@汤圣罡](http://weibo.com/lexrus)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [VPNOn](https://github.com/lexrus/VPNOn)
 
 ----
@@ -272,7 +272,7 @@
 > * GitHub: [https://github.com/KittenYang](https://github.com/KittenYang)
 > * Blog: [Kitten's 时间胶囊](http://kittenyang.com/#blog)
 > * 新浪微博: [@KITTEN-YANG](http://weibo.com/710312327)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)
 
 ----
@@ -284,7 +284,7 @@
 > * GitHub: [https://github.com/tualatrix](https://github.com/tualatrix)
 > * Blog: [IMTX](http://imtx.me/)
 > * 新浪微博: [@图拉鼎](http://weibo.com/tualatrix)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [Manico](http://manico.im/)
 >   * [奇点微博客户端](https://itunes.apple.com/app/id947792507)
 > * 了解更多:
@@ -297,7 +297,7 @@
 > * GitHub: [https://github.com/adad184](https://github.com/adad184)
 > * Blog: [里脊串的开发随笔](http://adad184.com/)
 > * 新浪微博: [@里脊串](http://weibo.com/ljc1986)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [MMTweenAnimation](https://github.com/adad184/MMTweenAnimation)
 >   * [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
 >   * [MMParallaxCell](https://github.com/adad184/MMParallaxCell)
@@ -332,5 +332,15 @@
 > * GitHub: [https://github.com/coderyi](https://github.com/coderyi)
 > * Blog: [https://github.com/coderyi/blog](https://github.com/coderyi/blog)
 > * 新浪微博: [@coderyi9](http://www.weibo.com/p/1005052136847320)
-> * 主要作品:
+> * 主要作品 / 项目:
 >   * [Monkey](https://github.com/coderyi/Monkey)
+
+----
+
+> **<img src="https://avatars0.githubusercontent.com/u/1753142?v=3&s=460" height="50" style="border-radius: 50%;">「糖炒小虾_txx」**
+> 
+> 礼物说技术合伙人。
+> 
+> * GitHub: [https://github.com/rpplusplus](https://github.com/rpplusplus)
+> * Blog: [txx's blog](http://blog.txx.im/)
+> * 新浪微博: [@糖炒小虾_txx](http://www.weibo.com/rpplusplus)
