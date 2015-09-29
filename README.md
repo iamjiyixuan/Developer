@@ -339,7 +339,7 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/1753142?v=3&s=460" height="50" style="border-radius: 50%;">「糖炒小虾_txx」**
 > 
-> 礼物说技术合伙人。
+> 「礼物说」技术合伙人，CTO。
 > 
 > * GitHub: [https://github.com/rpplusplus](https://github.com/rpplusplus)
 > * Blog: [txx's blog](http://blog.txx.im/)
