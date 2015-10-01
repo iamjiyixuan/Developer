@@ -274,6 +274,7 @@
 > * 新浪微博: [@KITTEN-YANG](http://weibo.com/710312327)
 > * TA 的主要作品 / 项目:
 >   * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu)
+>   * [《A GUIDE TO IOS ANIMATION》](http://book.kittenyang.com/)
 
 ----
 
