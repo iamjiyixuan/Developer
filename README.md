@@ -32,7 +32,7 @@
 > 
 > * 官网: [https://36kr.com/](https://36kr.com/)
 > * 新浪微博: [@36氪](http://weibo.com/wow36kr) 
-> * 微信公众号: 「36氪」wow36kr
+> * 微信公众号: 「36氪 · wow36kr」
 
 ----
 
@@ -41,7 +41,7 @@
 > * 官网: [https://xitu.io/](https://xitu.io/)
 > * 新浪微博: [@稀土圈](http://weibo.com/xitucircle) 
 > * GitHub: [https://github.com/xitu](https://github.com/xitu)
-> * 微信公众号: 「稀土圈」xitucircle
+> * 微信公众号: 「稀土圈 · xitucircle」
 
 ----
 
@@ -51,7 +51,7 @@
 > 
 > * 官网: [http://www.geekpark.net/](http://www.geekpark.net/)
 > * 新浪微博: [@GeekPark](http://weibo.com/geekpark) 
-> * 微信公众号: 「极客公园」geekpark
+> * 微信公众号: 「极客公园 · geekpark」
 
 ----
 
@@ -61,7 +61,7 @@
 > 
 > * 官网: [http://www.cocoachina.com/](http://www.cocoachina.com/)
 > * 新浪微博: [@CocoaChina](http://weibo.com/cocoachina) 
-> * 微信公众号: 「CocoaChina」cocoachinabbs
+> * 微信公众号: 「CocoaChina · cocoachinabbs」
 
 ----
 
@@ -97,7 +97,7 @@
 > 
 > * Blog: [Tinyfool' blog](http://tinyfool.org/)
 > * 新浪微博: [@tinyfool](http://weibo.com/tinyfool)
-> * 微信公众号:「Tiny4Voice」tiny4voice
+> * 微信公众号:「Tiny4Voice · tiny4voice」
 > * TA 的更多介绍：
 >   * [郝培强（Tinyfool）是谁？ - 知乎](http://www.zhihu.com/question/19581223)
 
@@ -109,7 +109,7 @@
 > 
 > * Blog: [MacTalk-池建强的随想录](http://macshuo.com/)
 > * 新浪微博: [@池建强](http://weibo.com/idreamland)
-> * 微信公众号:「MacTalk」sagacity-mac
+> * 微信公众号:「MacTalk · sagacity-mac」
 > * TA 的主要作品 / 项目:
 >   * [《MacTalk 人生元编程》](http://book.douban.com/subject/25826578/)
 
@@ -122,7 +122,7 @@
 > * GitHub: [https://github.com/tangqiaoboy](https://github.com/tangqiaoboy)
 > * Blog: [唐巧的技术博客](http://blog.devtang.com/)
 > * 新浪微博:  [@唐巧_boy](http://weibo.com/tangqiaoboy)
-> * 微信公众号:「iOS开发」iosDevTips
+> * 微信公众号:「iOS开发 · iosDevTips」
 > * TA 的主要作品 / 项目:
 >   * [《iOS开发进阶》](http://book.douban.com/subject/26287173/)
 > * TA 的访谈：
@@ -198,7 +198,7 @@
 > * GitHub: [https://github.com/southpeak](https://github.com/southpeak)
 > * Blog: [南峰子的技术博客](http://southpeak.github.io/)
 > * 新浪微博: [@南峰子_老驴](http://weibo.com/touristdiary)
-> * 微信公众号:「iOS知识小集」iOSTechSet
+> * 微信公众号:「iOS知识小集 · iOSTechSet」
 
 ----
 
@@ -416,5 +416,7 @@
 > * GitHub: [https://github.com/hzlzh](https://github.com/hzlzh)
 > * Blog: [自力博客 ](http://hzlzh.io/)
 > * 新浪微博: [@hzlzh](http://weibo.com/hzlzh)
+> * 微信公众号: 「MacTips」
 > * TA 的主要作品 / 项目:
+>   * [http://githubrank.com/](http://githubrank.com/) - GitHub 排名网站。
 >   * [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等。
