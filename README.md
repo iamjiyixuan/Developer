@@ -11,7 +11,7 @@
 
 > **Stack Overflow** 
 > 
-> 全球最大IT技术问答社区。
+> 全球最大 IT 技术问答社区。
 > 
 > * 官网: [http://stackoverflow.com/](http://stackoverflow.com/)
 
@@ -68,7 +68,7 @@
 >  **<img src="http://nshipster.s3.amazonaws.com/mattt-thompson.jpg" width="50" height="50" style="border-radius: 50%;">「Mattt Thompson」** 
 > 
 > * GitHub: [https://github.com/mattt](https://github.com/mattt)
-> * Blog: [http://nshipster.com/](http://nshipster.com/)
+> * Blog: [NSHipster](http://nshipster.com/)
 > * TA 的主要作品 / 项目:
 >   * [AFNetworking](https://github.com/AFNetworking/AFNetworking)
 
@@ -77,7 +77,7 @@
 >  **<img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「Ole Begemann」**
 > 
 > * GitHub: [https://github.com/ole](https://github.com/ole)
-> * Blog: [http://oleb.net/](http://oleb.net/)
+> * Blog: [Ole Begemann](http://oleb.net/)
 
 ----
 
@@ -194,7 +194,7 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「我就叫Sunny怎么了 · 孙源」** 
 > 
-> 现就职于百度，负责百度知道 iOS 客户端的开发，组织开源小组 [forkingdog](https://github.com/forkingdog)。
+> 现就职于百度，负责「百度知道」iOS 客户端的开发，组织开源小组 [forkingdog](https://github.com/forkingdog)。
 > 
 > * GitHub: [https://github.com/sunnyxx](https://github.com/sunnyxx) / [https://github.com/forkingdog](https://github.com/forkingdog)
 > * Blog: [sunnyxx的技术博客](http://blog.sunnyxx.com/)
@@ -317,7 +317,7 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/800128?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「王轲」**
 > 
-> 唱吧 iOS 架构师，IndieBros Studio 创始人，iOS 独立开发者。
+> 「唱吧」iOS 架构师，「IndieBros Studio」创始人，iOS 独立开发者。
 > 
 > * GitHub: [https://github.com/ewangke](https://github.com/ewangke)
 > * Blog: [iWangKe.me](http://www.iwangke.me/)
@@ -327,7 +327,7 @@
 
 > **<img src="https://avatars0.githubusercontent.com/u/10682908?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「coderyi」**
 > 
-> GitHub iOS 客户端 「Monkey」作者。
+> 「Monkey」作者。
 > 
 > * GitHub: [https://github.com/coderyi](https://github.com/coderyi)
 > * Blog: [https://github.com/coderyi/blog](https://github.com/coderyi/blog)
