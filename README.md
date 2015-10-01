@@ -394,3 +394,27 @@
 > * 新浪微博: [@oulvhai](http://weibo.com/p/1005052352150534)
 > * TA 的主要作品 / 项目:
 >   * [MWeb](http://www.mweb.im)
+
+## Web Developers
+
+> **<img src="https://avatars3.githubusercontent.com/u/1147375?v=3&s=460" height="50" style="border-radius: 50%;">「Alsotang」**
+> 
+>  前阿里巴巴 Node.js 工程师。CNode 社区负责人。 
+> 
+> * GitHub: [https://github.com/alsotang](https://github.com/alsotang)
+> * Blog: [Alsotang's blog](http://fxck.it/)
+> * 新浪微博: [@alsotang](http://weibo.com/tangzhanli)
+> * TA 的主要作品 / 项目:
+>   * [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
+----
+
+> **<img src="https://avatars3.githubusercontent.com/u/1049575?v=3&s=460" height="50" style="border-radius: 50%;">「hzlzh」**
+> 
+> 前端工程师，腾讯微信线下业务部门前端开发组成员（[TmT](https://github.com/TmT)）。
+> 
+> * GitHub: [https://github.com/hzlzh](https://github.com/hzlzh)
+> * Blog: [自力博客 ](http://hzlzh.io/)
+> * 新浪微博: [@hzlzh](http://weibo.com/hzlzh)
+> * TA 的主要作品 / 项目:
+>   * [Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等。
