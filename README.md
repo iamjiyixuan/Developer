@@ -371,3 +371,15 @@
 >   * [iOS应用架构谈 开篇](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 >   * [iOS应用架构谈 view层的组织和调用方案](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
 >   * [iOS应用架构谈 网络层设计方案](http://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html)
+
+----
+
+> **<img src="https://avatars2.githubusercontent.com/u/2174294?v=3&s=460" height="50" style="border-radius: 50%;">「oulvhai」**
+> 
+> 独立 Mac / iOS 开发者。
+> 
+> * GitHub: [https://github.com/oulvhai](https://github.com/oulvhai)
+> * Blog: [CODER FOR ART](http://coderforart.com/index.html)
+> * 新浪微博: [@oulvhai](http://weibo.com/p/1005052352150534)
+> * TA 的主要作品 / 项目:
+>   * [MWeb](http://www.mweb.im)
