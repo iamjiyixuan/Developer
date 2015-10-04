@@ -192,6 +192,18 @@
 
 ----
 
+> **<img src="http://tp1.sinaimg.cn/2034818060/180/5722819158/1" width="50" height="50" style="border-radius: 50%;"> 「吖了个峥 · 袁峥」**
+> 
+> 小码哥 iOS高级讲师 
+> 
+> * 新浪微博: [@吖了个峥](http://weibo.com/p/1005052034818060)
+> * Blog: [啊崢](http://www.jianshu.com/users/b09c3959ab3b/latest_articles)
+> * TA 的文章:
+>   * [最快让你上手ReactiveCocoa之基础篇](http://www.jianshu.com/p/87ef6720a096)
+>   * [最快让你上手ReactiveCocoa之进阶篇](http://www.jianshu.com/p/e10e5ca413b7)
+
+----
+
 > **<img src="http://tp3.sinaimg.cn/3321824014/180/40020528087/1" width="50" height="50" style="border-radius: 50%;">「南峰子」** 
 > 
 > 现就职于百度。TA的技术博客质量很高，强烈推荐。
