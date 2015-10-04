@@ -169,11 +169,12 @@
 > Catch Inc. CEO，《PRODUCTER》 作者 。
 > 
 > * GitHub: [https://github.com/kevinzhow](https://github.com/kevinzhow)
-> * Blog: [Kevin Blog](http://blog.zhowkev.in/) 
+> * Blog: [Kevin Blog](http://blog.zhowkev.in/)
 > * 新浪微博: [@周楷雯Kevin](http://weibo.com/kevinzhow)
 > * TA 的主要作品 / 项目:
->   * [《PRODUCTER》](http://producter.io/)
+>   * [《PRODUCTER》](http://producter.io/) / [Producter Tips](http://tips.producter.io/)
 >   * [PNChart](https://github.com/kevinzhow/PNChart)
+>   * [给女朋友的 iOS 开发教程 iOS With Girlfriend](http://www.bilibili.com/video/av2953140/)
 > * TA 的更多介绍:
 >   * [秒视90后CEO周楷雯怎么看他们这一代？我不要做NPC！](http://www.huxiu.com/article/45742/1.html) by 虎嗅网
 
