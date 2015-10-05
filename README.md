@@ -416,6 +416,17 @@
 > * TA 的主要作品 / 项目:
 >   * [MWeb](http://www.mweb.im)
 
+----
+
+> **<img src="https://avatars1.githubusercontent.com/u/2911921?v=3&s=460" height="50" style="border-radius: 50%;">「iOS程序犭袁」**
+> 
+> * GitHub: [https://github.com/ChenYilong](https://github.com/ChenYilong)
+> * Blog: [ChenYilong 博客园](http://www.cnblogs.com/ChenYilong/)
+> * 新浪微博: [@iOS程序犭袁](http://weibo.com/luohanchenyilong)
+> * TA 的主要作品 / 项目:
+>   * [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9适配系列教程
+>   * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS面试题集锦
+
 ## Web Developers
 
 > **<img src="https://avatars3.githubusercontent.com/u/1147375?v=3&s=460" height="50" style="border-radius: 50%;">「Alsotang」**
