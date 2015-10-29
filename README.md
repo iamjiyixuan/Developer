@@ -434,6 +434,19 @@
 >   * [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) - iOS9适配系列教程
 >   * [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) - iOS面试题集锦
 
+----
+
+> **<img src="https://avatars3.githubusercontent.com/u/1516898?v=3&s=460" height="50" style="border-radius: 50%;">「叶纯俊」**
+> 
+> * GitHub: [https://github.com/yechunjun](https://github.com/yechunjun)
+> * Blog: [Chun Tips](http://chun.tips)
+> * 新浪微博: [@Chun_Yeah](http://weibo.com/junbbcom)
+> * TA 的文章:
+>   * [刨根问底Objective－C Runtime（1）－ Self & Super](http://chun.tips/blog/2014/11/05/bao-gen-wen-di-objective%5Bnil%5Dc-runtime(1)%5Bnil%5D-self-and-super/)
+>   * [刨根问底Objective－C Runtime（2）－ Object & Class & Meta Class](http://chun.tips/blog/2014/11/05/bao-gen-wen-di-objective%5Bnil%5Dc-runtime-(2)%5Bnil%5D-object-and-class-and-meta-class/)
+>   * [刨根问底Objective－C Runtime（3）－ 消息 和 Category](http://chun.tips/blog/2014/11/06/bao-gen-wen-di-objective%5Bnil%5Dc-runtime(3)%5Bnil%5D-xiao-xi-he-category/)
+>   * [刨根问底Objective－C Runtime（4）－ 成员变量与属性](http://chun.tips/blog/2014/11/08/bao-gen-wen-di-objective%5Bnil%5Dc-runtime(4)%5Bnil%5D-cheng-yuan-bian-liang-yu-shu-xing/)
+
 ## Web Developers
 
 > **<img src="https://avatars3.githubusercontent.com/u/1147375?v=3&s=460" height="50" style="border-radius: 50%;">「Alsotang」**
