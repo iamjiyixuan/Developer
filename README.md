@@ -99,6 +99,13 @@
 
 ----
 
+>  **<img src="https://avatars1.githubusercontent.com/u/118883?v=3&s=460" width="50" height="50" style="border-radius: 50%;">「kharrison」**
+> 
+> * GitHub: [https://github.com/kharrison](https://github.com/kharrison)
+> * Blog: [Use Your Loaf](http://useyourloaf.com)
+
+----
+
 >  **<img class="avatar" src="http://tp1.sinaimg.cn/1400229064/180/5717259654/1" width="50" height="50" style="border-radius: 50%;">「tinyfool · 郝培强」**  
 > 
 > 上海泰尼网络科技有限公司创始人，[OurCoders.com](http://ourcoders.com/home/) 站长。
