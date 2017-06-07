@@ -1,4 +1,4 @@
-## iOS 开发者
+## macOS & iOS
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
@@ -39,6 +39,17 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars2.githubusercontent.com/u/5253662?v=3&s=460" width="30" height="30"> | 雷纯锋 | [Blog](http://blog.leichunfeng.com), [GitHub](https://github.com/leichunfeng) | [GitBucket](https://itunes.apple.com/cn/app/id961330940?mt=8), [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) | |
 <img src="https://avatars1.githubusercontent.com/u/6276527?v=3&s=460" width="30" height="30"> | callmewhy | [Blog](http://blog.callmewhy.com/), [GitHub](https://github.com/callmewhy) |
 <img src="https://avatars0.githubusercontent.com/u/7688757?v=3&s=460" width="30" height="30"> | 南峰子 | [Blog](http://southpeak.github.io), [GitHub](https://github.com/southpeak) |
+<img src="https://avatars3.githubusercontent.com/u/6942765?v=3&s=460" width="30" height="30"> | 没故事的卓同学 | [GitHub](https://github.com/lacklock), [简书](http://www.jianshu.com/u/88a056103c02) |
+<img src="https://avatars0.githubusercontent.com/u/7285119?v=3&s=460" width="30" height="30"> | 酷酷的哀殿 | [GitHub](https://github.com/sunbohong), [简书](http://www.jianshu.com/u/486bf26e8dce) |
+<img src="https://avatars3.githubusercontent.com/u/7804535?v=3&s=460" width="30" height="30"> | 冬瓜争做全栈瓜 | [Blog](http://www.desgard.com), [GitHub](https://github.com/Desgard) |
+<img src="https://avatars3.githubusercontent.com/u/8857869?v=3&s=460" width="30" height="30"> | 黄建敏 · kuailejim | [Blog](http://kuailejim.com/#blog), [GitHub](https://github.com/kuailejim), [简书](http://www.jianshu.com/users/40e4dced948f) |
+<img src="https://avatars1.githubusercontent.com/u/7369112?v=3&s=460" width="30" height="30"> | Joy__ | [GitHub](https://github.com/joy0304), [简书](http://www.jianshu.com/u/9c51a213b02e) |
+<img src="https://avatars1.githubusercontent.com/u/435208?v=3&s=460" width="30" height="30"> | nixzhu | [Blog](https://github.com/nixzhu/dev-blog), [GitHub](https://github.com/nixzhu) |
+
+## Web FE
+Avatar  | Name · ID | Links | Projects | Summary |
+------- | --------- | ----- | -------- | ------- |
+<img src="https://avatars3.githubusercontent.com/u/499550?v=3&s=460" width="30" height="30"> | 尤雨溪 · Evan You | [Blog](), [GitHub](https://github.com/yyx990803) | [Vue.js](https://vuejs.org) |
 
 > 排名不分先后
 
