@@ -1,8 +1,9 @@
-## macOS & iOS
+## Apple Developer
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat), [Resume](https://onev.cat) | [Kingfisher](https://github.com/onevcat/kingfisher), [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) |
+<img src="https://avatars1.githubusercontent.com/u/4409139?v=3&s=200" width="30" height="30"> | objc.io | [Blog](https://www.objc.io), [GitHub](https://github.com/objcio), [ObjC 中国](https://objccn.io) |
+<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat), [Resume](https://onev.cat) | [Kingfisher](https://github.com/onevcat/kingfisher), [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode), [ObjC 中国](https://objccn.io) |
 <img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) |
 <img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) |
 <img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="30" height="30"> | 孙源 · sunnyxx | [Blog](http://blog.sunnyxx.com/), [GitHub](https://github.com/sunnyxx) | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
@@ -29,7 +30,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/9565461?v=3&s=460" width="30" height="30"> | DeveloperLx | [GitHub](https://github.com/DeveloperLx) |
 <img src="https://avatars2.githubusercontent.com/u/10103766?v=3&s=460" width="30" height="30"> | 江南的悲伤 | [Blog](http://sergiochan.xyz/), [GitHub](https://github.com/SergioChan) | [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)
 <img src="https://avatars2.githubusercontent.com/u/2572987?v=3&s=460" width="30" height="30"> | 梁杰 · numbbbbb | [Blog](http://numbbbbb.com/), [GitHub](https://github.com/numbbbbb) | [中文版 Apple 官方 Swift 教程](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)
-<img src="https://avatars3.githubusercontent.com/u/11436486?v=3&s=200" width="30" height="30"> | Glow 技术团队博客 | [Blog](http://tech.glowing.com/cn/) |
+<img src="https://avatars3.githubusercontent.com/u/11436486?v=3&s=200" width="30" height="30"> | Glow 技术团队 | [Blog](http://tech.glowing.com/cn/), [GitHub](https://github.com/Glow-Inc) |
 <img src="https://avatars1.githubusercontent.com/u/1005781?v=3&s=460" width="30" height="30"> | 田伟宇 · Casa Taloyum | [Blog](https://casatwy.com), [GitHub](https://github.com/casatwy) |
 <img src="https://avatars2.githubusercontent.com/u/5517281?v=3&s=460" width="30" height="30"> | 杨骑滔 · KittenYang | [Blog](http://kittenyang.com), [GitHub](https://github.com/KittenYang) | [《 A-GUIDE-TO-IOS-ANIMATION》](http://book.kittenyang.com/) |
 <img src="https://avatars0.githubusercontent.com/u/12953705?v=3&s=460" width="30" height="30"> | J_Knight | [Blog](https://knightsj.github.io/), [GitHub](https://github.com/knightsj), [简书](http://www.jianshu.com/subscriptions#/subscriptions/768084/user) |
@@ -45,8 +46,18 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/8857869?v=3&s=460" width="30" height="30"> | 黄建敏 · kuailejim | [Blog](http://kuailejim.com/#blog), [GitHub](https://github.com/kuailejim), [简书](http://www.jianshu.com/users/40e4dced948f) |
 <img src="https://avatars1.githubusercontent.com/u/7369112?v=3&s=460" width="30" height="30"> | Joy__ | [GitHub](https://github.com/joy0304), [简书](http://www.jianshu.com/u/9c51a213b02e) |
 <img src="https://avatars1.githubusercontent.com/u/435208?v=3&s=460" width="30" height="30"> | nixzhu | [Blog](https://github.com/nixzhu/dev-blog), [GitHub](https://github.com/nixzhu) |
+<img src="https://avatars2.githubusercontent.com/u/35974?v=3&s=460" width="30" height="30"> | Limboy | [Blog](http://limboy.me), [GitHub](https://github.com/lzyy) |
+<img src="https://avatars1.githubusercontent.com/u/4186501?v=3&s=460" width="30" height="30"> | 向晨宇 | [Blog](http://www.iosxxx.com), [GitHub](https://github.com/xcysuccess) |
+<img src="https://avatars2.githubusercontent.com/u/5554471?v=3&s=460" width="30" height="30"> | kangzubin | [Blog](https://kangzubin.com/), [GitHub](https://github.com/kangzubin) | [XMNetworking](https://github.com/kangzubin/XMNetworking) |
 
-## Web FE
+## Android Developer
+
+Avatar  | Name · ID | Links | Projects | Summary |
+------- | --------- | ----- | -------- | ------- |
+<img src="https://avatars3.githubusercontent.com/u/2503423?v=3&s=460" width="30" height="30"> | 代码家 | [Blog](https://daimajia.com), [GitHub](https://github.com/daimajia) | [干货集中营](http://gank.io) |
+
+## Web Front-End Developer
+
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
 <img src="https://avatars3.githubusercontent.com/u/499550?v=3&s=460" width="30" height="30"> | 尤雨溪 · Evan You | [Blog](), [GitHub](https://github.com/yyx990803) | [Vue.js](https://vuejs.org) |
