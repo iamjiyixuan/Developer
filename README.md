@@ -48,6 +48,8 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars1.githubusercontent.com/u/4186501?v=3&s=460" width="30" height="30"> | 向晨宇 | [Blog](http://www.iosxxx.com), [GitHub](https://github.com/xcysuccess) |
 <img src="https://avatars2.githubusercontent.com/u/5554471?v=3&s=460" width="30" height="30"> | kangzubin | [Blog](https://kangzubin.com/), [GitHub](https://github.com/kangzubin) | [XMNetworking](https://github.com/kangzubin/XMNetworking) |
 <img src="https://avatars1.githubusercontent.com/u/100976?v=3&s=460" width="30" height="30"> | Ling Wang | [Blog](http://wangling.me/), [GitHub](https://github.com/an0) | [Moke](http://moke.com/moke), [Annotable](http://moke.com/annotable/) | 独立开发者 |
+<img src="https://avatars2.githubusercontent.com/u/698982?v=3&s=460" width="30" height="30"> | Allen Wang | [GitHub](https://github.com/allenwong), [Dribbble](https://dribbble.com/openallen) | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) |
+<img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="30" height="30"> | Ole Begemann | [Blog](http://oleb.net/), [GitHub](https://github.com/ole) |
 
 ## Android Developer
 
@@ -60,6 +62,12 @@ Avatar  | Name · ID | Links | Projects | Summary |
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
 <img src="https://avatars3.githubusercontent.com/u/499550?v=3&s=460" width="30" height="30"> | 尤雨溪 · Evan You | [Blog](), [GitHub](https://github.com/yyx990803) | [Vue.js](https://vuejs.org) |
+
+## Back-End Developer
+
+Avatar  | Name · ID | Links | Projects | Summary |
+------- | --------- | ----- | -------- | ------- |
+<img src="http://coolshell.cn//wp-content/uploads/2011/03/me.jpg" width="30" height="30"> | 陈皓 · 左耳朵耗子 | [Blog](http://coolshell.cn) |
 
 ## Team
 Avatar  | Name | Links | Projects | Summary |
