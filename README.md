@@ -2,9 +2,9 @@
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat), [Resume](https://onev.cat) | [Kingfisher](https://github.com/onevcat/kingfisher), [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode), [ObjC 中国](https://objccn.io) |
-<img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) |
-<img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) |
+<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | [Kingfisher](https://github.com/onevcat/kingfisher), [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode), [ObjC 中国](https://objccn.io) | [Resume](https://onev.cat) 
+<img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) | | 小猿搜题 产品技术负责人
+<img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) | | An iOS developer working for No NDA Inc.
 <img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="30" height="30"> | 孙源 · sunnyxx | [Blog](http://blog.sunnyxx.com/), [GitHub](https://github.com/sunnyxx) | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 <img src="https://avatars2.githubusercontent.com/u/839283?v=3&s=460" width="30" height="30"> | 郭曜源 · ibireme | [Blog](http://blog.ibireme.com), [GitHub](https://github.com/ibireme) | [YYKit](https://github.com/ibireme/YYKit)
 <img src="https://avatars0.githubusercontent.com/u/1753142?v=3&s=460" width="30" height="30"> | 糖炒小虾_txx | [Blog](http://blog.txx.im/), [GitHub](https://github.com/rpplusplus) | | 礼物说技术合伙人
@@ -50,6 +50,8 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars1.githubusercontent.com/u/100976?v=3&s=460" width="30" height="30"> | Ling Wang | [Blog](http://wangling.me/), [GitHub](https://github.com/an0) | [Moke](http://moke.com/moke), [Annotable](http://moke.com/annotable/) | 独立开发者 |
 <img src="https://avatars2.githubusercontent.com/u/698982?v=3&s=460" width="30" height="30"> | Allen Wang | [GitHub](https://github.com/allenwong), [Dribbble](https://dribbble.com/openallen) | [30DaysofSwift](https://github.com/allenwong/30DaysofSwift) |
 <img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="30" height="30"> | Ole Begemann | [Blog](http://oleb.net/), [GitHub](https://github.com/ole) |
+<img src="https://avatars1.githubusercontent.com/u/2911921?v=3&s=460" width="30" height="30"> | 陈宜龙 · iOS程序犭袁 | [GitHub](https://github.com/ChenYilong), [简书](http://www.jianshu.com/u/96a14318a4de) |
+<img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | | 前阿里音乐 iOS 程序猿，现网鱼网咖·鱼泡泡 iOS 技术负责人
 
 ## Android Developer
 
