@@ -52,6 +52,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/5010?v=3&s=460" width="30" height="30"> | Ole Begemann | [Blog](http://oleb.net/), [GitHub](https://github.com/ole) |
 <img src="https://avatars1.githubusercontent.com/u/2911921?v=3&s=460" width="30" height="30"> | 陈宜龙 · iOS程序犭袁 | [GitHub](https://github.com/ChenYilong), [简书](http://www.jianshu.com/u/96a14318a4de) |
 <img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | | 前阿里音乐 iOS 程序猿，现网鱼网咖·鱼泡泡 iOS 技术负责人
+<img src="https://avatars0.githubusercontent.com/u/4470629?v=3&s=460" width="30" height="30"> | 张弓 | [Blog](http://gongzhang.github.io/), [GitHub](https://github.com/gongzhang) | [分形的奥秘](https://itunes.apple.com/cn/app/id1086527481) | 独立开发者
 
 ## Android Developer
 
