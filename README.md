@@ -65,6 +65,8 @@ Avatar  | Name · ID | Links | Projects | Summary |
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
 <img src="https://avatars3.githubusercontent.com/u/499550?v=3&s=460" width="30" height="30"> | 尤雨溪 · Evan You | [Blog](), [GitHub](https://github.com/yyx990803) | [Vue.js](https://vuejs.org) |
+<img src="https://avatars0.githubusercontent.com/u/359395?v=3&s=460" width="30" height="30"> | 迷渡 · justjavac | [Blog](http://justjavac.com/), [GitHub](https://github.com/justjavac) |
+<img src="https://avatars2.githubusercontent.com/u/2698003?v=3&s=460" width="30" height="30"> | 李靖 · barretlee | [Blog](http://barretlee.com/), [GitHub](https://github.com/barretlee) |
 
 ## Back-End Developer
 
