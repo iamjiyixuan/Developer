@@ -13,7 +13,7 @@
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | [Kingfisher](https://github.com/onevcat/kingfisher), [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode), [ObjC 中国](https://objccn.io) | [Resume](https://onev.cat) 
+<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | · [Kingfisher](https://github.com/onevcat/kingfisher)<br/> · [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)<br/> · [ObjC 中国](https://objccn.io) | [Resume](https://onev.cat) 
 <img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) | | 小猿搜题 产品技术负责人
 <img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) | |
 <img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="30" height="30"> | 孙源 · sunnyxx | [Blog](http://blog.sunnyxx.com/), [GitHub](https://github.com/sunnyxx) | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
