@@ -13,7 +13,7 @@
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | · [Kingfisher](https://github.com/onevcat/kingfisher)<br/> · [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)<br/> · [ObjC 中国](https://objccn.io)<br/> · [《Swift 进阶》](https://objccn.io/products/advanced-swift/)（译）<br/> · [《函数式 Swift》](https://objccn.io/products/functional-swift/)（译） | [Resume](https://onev.cat) 
+<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | - [Kingfisher](https://github.com/onevcat/kingfisher)<br/> - [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)<br/> - [ObjC 中国](https://objccn.io)<br/> - [《Swift 进阶》](https://objccn.io/products/advanced-swift/)（译）<br/> - [《函数式 Swift》](https://objccn.io/products/functional-swift/)（译） | [Resume](https://onev.cat) 
 <img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) | | 小猿搜题 产品技术负责人
 <img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) | |
 <img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="30" height="30"> | 孙源 · sunnyxx | [Blog](http://blog.sunnyxx.com/), [GitHub](https://github.com/sunnyxx) | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
@@ -64,6 +64,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars1.githubusercontent.com/u/2911921?v=3&s=460" width="30" height="30"> | 陈宜龙 · iOS程序犭袁 | [GitHub](https://github.com/ChenYilong), [简书](http://www.jianshu.com/u/96a14318a4de) |
 <img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | |
 <img src="https://avatars0.githubusercontent.com/u/4470629?v=3&s=460" width="30" height="30"> | 张弓 | [Blog](http://gongzhang.github.io/), [GitHub](https://github.com/gongzhang) | [分形的奥秘](https://itunes.apple.com/cn/app/id1086527481) | 独立开发者
+<img src="https://avatars3.githubusercontent.com/u/5118864?v=4&s=460" width="30" height="30"> | Alone_Monkey | [Blog](http://www.alonemonkey.com), [GitHub](https://github.com/AloneMonkey) | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)
 
 ## Android Developer
 
