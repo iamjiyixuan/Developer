@@ -9,6 +9,8 @@
 
 <!-- /TOC -->
 
+> 排名不分先后
+
 ## Apple Developer
 
 Avatar  | Name · ID | Links | Projects | Summary |
@@ -65,6 +67,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | |
 <img src="https://avatars0.githubusercontent.com/u/4470629?v=3&s=460" width="30" height="30"> | 张弓 | [Blog](http://gongzhang.github.io/), [GitHub](https://github.com/gongzhang) | [分形的奥秘](https://itunes.apple.com/cn/app/id1086527481) | 独立开发者
 <img src="https://avatars3.githubusercontent.com/u/5118864?v=4&s=460" width="30" height="30"> | Alone_Monkey | [Blog](http://www.alonemonkey.com), [GitHub](https://github.com/AloneMonkey) | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)
+<img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) | 
 
 ## Android Developer
 
@@ -84,7 +87,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="http://coolshell.cn//wp-content/uploads/2011/03/me.jpg" width="30" height="30"> | 陈皓 · 左耳朵耗子 | [Blog](http://coolshell.cn) |
+<img src="https://coolshell.cn/wp-content/uploads/2011/03/me.jpg" width="30" height="30"> | 陈皓 · 左耳朵耗子 | [Blog](http://coolshell.cn) |
 
 ## Team
 Avatar  | Name | Links | Projects | Summary |
