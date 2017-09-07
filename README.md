@@ -67,7 +67,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | |
 <img src="https://avatars0.githubusercontent.com/u/4470629?v=3&s=460" width="30" height="30"> | 张弓 | [Blog](http://gongzhang.github.io/), [GitHub](https://github.com/gongzhang) | [分形的奥秘](https://itunes.apple.com/cn/app/id1086527481) | 独立开发者
 <img src="https://avatars3.githubusercontent.com/u/5118864?v=4&s=460" width="30" height="30"> | Alone_Monkey | [Blog](http://www.alonemonkey.com), [GitHub](https://github.com/AloneMonkey) | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)
-<img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) | 
+<img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 · crazycodeboy | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) | 
 
 ## Android Developer
 
@@ -82,6 +82,8 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/499550?v=3&s=460" width="30" height="30"> | 尤雨溪 · Evan You | [Blog](), [GitHub](https://github.com/yyx990803) | [Vue.js](https://vuejs.org) |
 <img src="https://avatars0.githubusercontent.com/u/359395?v=3&s=460" width="30" height="30"> | 迷渡 · justjavac | [Blog](http://justjavac.com/), [GitHub](https://github.com/justjavac) |
 <img src="https://avatars2.githubusercontent.com/u/2698003?v=3&s=460" width="30" height="30"> | 李靖 · barretlee | [Blog](http://barretlee.com/), [GitHub](https://github.com/barretlee) |
+<img src="https://avatars2.githubusercontent.com/u/35128?v=4&s=460" width="30" height="30"> | 陈成（花名：云谦） · sorrycc | [GitHub](https://github.com/sorrycc) | [dva](https://github.com/dvajs/dva) <br/> [awesome-javascript](https://github.com/sorrycc/awesome-javascript) |
+<img src="https://pic2.zhimg.com/04d3c071d_xll.jpg" width="30" height="30"> | 程墨 · Morgan | [知乎](https://www.zhihu.com/people/morgancheng/activities) | [著] [《深入浅出React和Redux》](https://book.douban.com/subject/27033213/) |
 
 ## Back-End Developer
 
