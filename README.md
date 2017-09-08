@@ -83,7 +83,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars0.githubusercontent.com/u/359395?v=3&s=460" width="30" height="30"> | 迷渡 · justjavac | [Blog](http://justjavac.com/), [GitHub](https://github.com/justjavac) |
 <img src="https://avatars2.githubusercontent.com/u/2698003?v=3&s=460" width="30" height="30"> | 李靖 · barretlee | [Blog](http://barretlee.com/), [GitHub](https://github.com/barretlee) |
 <img src="https://avatars2.githubusercontent.com/u/35128?v=4&s=460" width="30" height="30"> | 陈成（花名：云谦） · sorrycc | [GitHub](https://github.com/sorrycc) | [dva](https://github.com/dvajs/dva) <br/> [awesome-javascript](https://github.com/sorrycc/awesome-javascript) |
-<img src="https://pic2.zhimg.com/04d3c071d_xll.jpg" width="30" height="30"> | 程墨 · Morgan | [知乎](https://www.zhihu.com/people/morgancheng/activities) | [著] [《深入浅出React和Redux》](https://book.douban.com/subject/27033213/) |
+<img src="https://avatars2.githubusercontent.com/u/239291?v=4&s=460" width="30" height="30"> | 程墨 · Morgan | [GitHub](https://github.com/mocheng), [知乎](https://www.zhihu.com/people/morgancheng/activities) | [著] [《深入浅出React和Redux》](https://book.douban.com/subject/27033213/) |
 
 ## Back-End Developer
 
