@@ -85,6 +85,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars2.githubusercontent.com/u/35128?v=4&s=460" width="30" height="30"> | 陈成（花名：云谦） · sorrycc | [GitHub](https://github.com/sorrycc) | [dva](https://github.com/dvajs/dva) <br/> [awesome-javascript](https://github.com/sorrycc/awesome-javascript) |
 <img src="https://avatars2.githubusercontent.com/u/239291?v=4&s=460" width="30" height="30"> | 程墨 · Morgan | [GitHub](https://github.com/mocheng), [知乎](https://www.zhihu.com/people/morgancheng/activities) | [著] [《深入浅出React和Redux》](https://book.douban.com/subject/27033213/) |
 <img src="https://avatars1.githubusercontent.com/u/905434?v=4&s=460" width="30" height="30"> | 阮一峰 · ruanyf | [Blog](http://www.ruanyifeng.com/blog/), [GitHub](https://github.com/ruanyf) | [著] [《ECMAScript 6 入门》](http://es6.ruanyifeng.com) |
+<img src="https://avatars3.githubusercontent.com/u/6436132?v=4&s=460" width="30" height="30"> | 戴嘉华（胡子大哈） · livoras | [Blog](https://github.com/livoras/blog/issues), [GitHub](https://github.com/livoras) | [凹脑图](https://aonaotu.com) <br/> [ScriptOJ](https://scriptoj.com) <br/> [著] [《React.js 小书》](http://huziketang.com/books/react/) | [resume](https://github.com/livoras/resume) |
 
 ## Back-End Developer
 
