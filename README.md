@@ -104,6 +104,7 @@ Avatar  | Name | Links | Projects | Summary |
 <img src="https://avatars0.githubusercontent.com/u/12810740?v=3&s=200" width="30" height="30"> | 饿了么前端 | [Blog](https://fe.ele.me/), [GitHub](https://github.com/ElemeFE) | [element](https://github.com/ElemeFE/element) |
 <img src="https://avatars0.githubusercontent.com/u/7963086?v=3&s=200" width="30" height="30"> | 猿题库技术团队 | [GitHub](https://github.com/yuantiku) | [YTKNetwork](https://github.com/yuantiku/YTKNetwork) |
 <img src="https://avatars1.githubusercontent.com/u/2645408?v=4&s=200" width="30" height="30"> | 极光开发者 | [GitHub](https://github.com/jpush) | [aurora-imui](https://github.com/jpush/aurora-imui) |
+<img src="https://avatars0.githubusercontent.com/u/27521938?v=4&s=200" width="30" height="30"> | 滴滴出行 | [GitHub](https://github.com/didi) |
 
 > 排名不分先后
 
