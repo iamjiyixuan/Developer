@@ -74,6 +74,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
 <img src="https://avatars3.githubusercontent.com/u/2503423?v=3&s=460" width="30" height="30"> | 代码家 | [Blog](https://daimajia.com), [GitHub](https://github.com/daimajia) | [干货集中营](http://gank.io) |
+<img src="https://avatars0.githubusercontent.com/u/3098704?v=4&s=460" width="30" height="30"> | 许建林 · Piasy | [Blog](https://blog.piasy.com), [GitHub](https://github.com/Piasy) | [YOLO](https://www.yoloyolo.tv/) <br/> [AndroidTDDBootStrap](https://github.com/Piasy/AndroidTDDBootStrap) <br/> [BigImageViewer](https://github.com/Piasy/BigImageViewer) | 专注于流媒体技术
 
 ## Web Front-End Developer
 
