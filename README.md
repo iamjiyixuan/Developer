@@ -101,8 +101,9 @@ Avatar  | Name | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/17025155?v=3&s=460" width="30" height="30"> | 微信读书技术团队 | [Blog](http://wereadteam.github.io), [GitHub](https://github.com/wereadteam) | [微信读书](http://weread.qq.com)
 <img src="https://avatars2.githubusercontent.com/u/1503033?v=3&s=200" width="30" height="30"> | 腾讯 Web 前端团队 AlloyTeam | [Blog](http://www.alloyteam.com/), [GitHub](https://github.com/AlloyTeam) | | |
 <img src="https://avatars3.githubusercontent.com/u/11436486?v=3&s=200" width="30" height="30"> | Glow 技术团队 | [Blog](http://tech.glowing.com/cn/), [GitHub](https://github.com/Glow-Inc) |
-<img src="https://avatars0.githubusercontent.com/u/12810740?v=3&s=200" width="30" height="30"> | 饿了么前端团队 | [Blog](https://fe.ele.me/), [GitHub](https://github.com/ElemeFE) | [element](https://github.com/ElemeFE/element) |
-<img src="https://avatars0.githubusercontent.com/u/7963086?v=3&s=200" width="30" height="30"> | 猿题库技术团队 | [GitHub](https://github.com/yuantiku) | [YTKNetwork](https://github.com/yuantiku/YTKNetwork) | 
+<img src="https://avatars0.githubusercontent.com/u/12810740?v=3&s=200" width="30" height="30"> | 饿了么前端 | [Blog](https://fe.ele.me/), [GitHub](https://github.com/ElemeFE) | [element](https://github.com/ElemeFE/element) |
+<img src="https://avatars0.githubusercontent.com/u/7963086?v=3&s=200" width="30" height="30"> | 猿题库技术团队 | [GitHub](https://github.com/yuantiku) | [YTKNetwork](https://github.com/yuantiku/YTKNetwork) |
+<img src="https://avatars1.githubusercontent.com/u/2645408?v=4&s=200" width="30" height="30"> | 极光开发者 | [GitHub](https://github.com/jpush) | [aurora-imui](https://github.com/jpush/aurora-imui) |
 
 > 排名不分先后
 
