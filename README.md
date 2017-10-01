@@ -69,6 +69,7 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars3.githubusercontent.com/u/5118864?v=4&s=460" width="30" height="30"> | Alone_Monkey | [Blog](http://www.alonemonkey.com), [GitHub](https://github.com/AloneMonkey) | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)
 <img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 · crazycodeboy | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) |
 <img src="https://avatars3.githubusercontent.com/u/1665109?v=4&s=460" width="30" height="30"> | everettjf | [Blog](http://everettjf.com), [GitHub](https://github.com/everettjf) | |
+<img src="https://avatars2.githubusercontent.com/u/8814535?v=4&s=400" width="30" height="30"> | 臧其龙 · 叶孤城 | [GitHub](https://github.com/zangqilong198812), [简书](http://www.jianshu.com/u/b82d2721ba07), [知乎](https://www.zhihu.com/people/zang-qi-long/activities) |
 
 ## Android Developer
 
