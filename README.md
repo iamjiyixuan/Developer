@@ -67,7 +67,8 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars2.githubusercontent.com/u/6902364?v=3&s=460" width="30" height="30"> | 庞海礁 | [Blog](http://www.olinone.com/), [GitHub](https://github.com/panghaijiao) | |
 <img src="https://avatars0.githubusercontent.com/u/4470629?v=3&s=460" width="30" height="30"> | 张弓 | [Blog](http://gongzhang.github.io/), [GitHub](https://github.com/gongzhang) | [分形的奥秘](https://itunes.apple.com/cn/app/id1086527481) | 独立开发者
 <img src="https://avatars3.githubusercontent.com/u/5118864?v=4&s=460" width="30" height="30"> | Alone_Monkey | [Blog](http://www.alonemonkey.com), [GitHub](https://github.com/AloneMonkey) | [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)
-<img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 · crazycodeboy | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) | 
+<img src="https://avatars2.githubusercontent.com/u/8716595?v=4&s=460" width="30" height="30"> | 贾鹏辉 · crazycodeboy | [Blog](http://www.devio.org), [GitHub](https://github.com/crazycodeboy) | [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular) |
+<img src="https://avatars3.githubusercontent.com/u/1665109?v=4&s=460" width="30" height="30"> | everettjf | [Blog](http://everettjf.com), [GitHub](https://github.com/everettjf) | |
 
 ## Android Developer
 
