@@ -4,7 +4,7 @@
 - [Apple Developer](#apple-developer)
 - [Android Developer](#android-developer)
 - [Web Front-End Developer](#web-front-end-developer)
-- [Back-End Developer](#back-end-developer)
+- [Other](#other)
 - [Team](#team)
 
 <!-- /TOC -->
@@ -15,7 +15,7 @@
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog), [GitHub](https://github.com/onevcat) | [Kingfisher](https://github.com/onevcat/kingfisher)<br/> [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)<br/> [ObjC 中国](https://objccn.io)<br/> [著] [《Swifter》](https://objccn.io/products/swifter-tips)<br/> [译] [《Swift 进阶》](https://objccn.io/products/advanced-swift/)<br/> [译] [《函数式 Swift》](https://objccn.io/products/functional-swift/)<br/> [译] [《集合类型优化》](https://objccn.io/products/optimizing-collections/) | [Resume](https://onev.cat) 
+<img src="https://avatars2.githubusercontent.com/u/1019875?v=3&s=460" width="30" height="30">  | 王巍 · onevcat | [Blog](http://onevcat.com/#blog) </br>[GitHub](https://github.com/onevcat)</br>[Twitter @onevcat](https://twitter.com/onevcat) | [Kingfisher](https://github.com/onevcat/kingfisher)<br/> [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)<br/> [ObjC 中国](https://objccn.io)<br/> [著] [《Swifter》](https://objccn.io/products/swifter-tips)<br/> [译] [《Swift 进阶》](https://objccn.io/products/advanced-swift/)<br/> [译] [《函数式 Swift》](https://objccn.io/products/functional-swift/)<br/> [译] [《集合类型优化》](https://objccn.io/products/optimizing-collections/) | [Resume](https://onev.cat) 
 <img src="https://avatars1.githubusercontent.com/u/733097?v=3&s=460" width="30" height="30"> | 唐巧 · tangqiaoboy | [Blog](http://blog.devtang.com/), [GitHub](https://github.com/tangqiaoboy) | | 小猿搜题 产品技术负责人
 <img src="https://avatars1.githubusercontent.com/u/219689?v=3&s=460" width="30" height="30"> | 汤圣罡 · Lex Tang | [Blog](http://lexrus.com/), [GitHub](https://github.com/lexrus) | |
 <img src="https://avatars0.githubusercontent.com/u/2410234?v=3&s=460" width="30" height="30"> | 孙源 · sunnyxx | [Blog](http://blog.sunnyxx.com/), [GitHub](https://github.com/sunnyxx) | [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
@@ -90,11 +90,12 @@ Avatar  | Name · ID | Links | Projects | Summary |
 <img src="https://avatars1.githubusercontent.com/u/905434?v=4&s=460" width="30" height="30"> | 阮一峰 · ruanyf | [Blog](http://www.ruanyifeng.com/blog/), [GitHub](https://github.com/ruanyf) | [著] [《ECMAScript 6 入门》](http://es6.ruanyifeng.com) |
 <img src="https://avatars3.githubusercontent.com/u/6436132?v=4&s=460" width="30" height="30"> | 戴嘉华（胡子大哈） · livoras | [Blog](https://github.com/livoras/blog/issues), [GitHub](https://github.com/livoras), [知乎](https://www.zhihu.com/people/hu-zi-da-ha/activities) | [凹脑图](https://aonaotu.com) <br/> [ScriptOJ](https://scriptoj.com) <br/> [著] [《React.js 小书》](http://huziketang.com/books/react/) | [resume](https://github.com/livoras/resume) |
 
-## Back-End Developer
+## Other
 
 Avatar  | Name · ID | Links | Projects | Summary |
 ------- | --------- | ----- | -------- | ------- |
-<img src="https://coolshell.cn/wp-content/uploads/2011/03/me.jpg" width="30" height="30"> | 陈皓 · 左耳朵耗子 | [Blog](http://coolshell.cn) |
+<img src="https://coolshell.cn/wp-content/uploads/2011/03/me.jpg" width="30" height="30"> | 陈皓 · 左耳朵耗子 | [Blog](http://coolshell.cn) </br> [极客时间专栏](https://time.geekbang.org/column/intro/48)（付费订阅）</br> [Twitter @haoel](https://twitter.com/haoel) |
+<img src="" width="30" height="30"> | 冯大辉 · Fenng | [Blog](http://dbanotes.net) </br> [Twitter @Fenng](https://twitter.com/Fenng) | [Readhub](https://readhub.me) | 数据库技术专家，无码科技创始人
 
 ## Team
 Avatar  | Name | Links | Projects | Summary |
